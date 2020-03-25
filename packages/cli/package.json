@@ -18,7 +18,8 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "build": "echo 'hehha'"
+    "build": "echo 'hehha'",
+    "prepublishOnly": "echo 'xxx'"
   },
   "dependencies": {
     "@mo-demo/cli-shared-utils": "^1.0.0",

@@ -18,7 +18,8 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "build": "echo 'hehha'"
+    "build": "echo 'hehha'",
+    "prepublishOnly": "echo 'xxx'"
   },
   "dependencies": {
     "chalk": "^3.0.0",
