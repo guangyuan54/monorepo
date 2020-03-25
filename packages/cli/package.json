@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "isguangyuan.yu <isguangyuan.yu@gmail.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
     "prepublishOnly": "echo 'xxx'"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.4",
+    "@mo-demo/cli-shared-utils": "^0.0.5",
     "chalk": "^3.0.0"
   },
   "gitHead": "1d0eefbe3c20746fc4b046d162005f9b3e096377"
