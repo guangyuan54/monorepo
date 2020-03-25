@@ -4,5 +4,5 @@ module.exports = cli;
 
 function cli() {
     // TODO
-    console.log('asfsa');
+    console.log('asfsass');
 }
