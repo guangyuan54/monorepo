@@ -4,5 +4,5 @@ module.exports = cliSharedUtils;
 
 function cliSharedUtils() {
     // TODO
-    console.log('hello');
+    console.log('hell');
 }
